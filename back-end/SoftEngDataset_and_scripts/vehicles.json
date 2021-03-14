@@ -1,0 +1,143 @@
+{"_id": "a9a177bf-9ce5-4b67-b3ef-51af248b48c2", "userID": 25, "brand": "Audi", "type": "bev", "model": "e-tron 55", "consumption": 23.4}
+{"_id": "27d7610e-9a77-498a-b1b5-28d4bc92cbf2", "userID": 13, "brand": "Audi", "type": "bev", "model": "e-tron 55", "consumption": 23.4}
+{"_id": "c6a6bd26-6a8f-4ab7-baf3-6cfa057044e3", "userID": 30, "brand": "Audi", "type": "bev", "model": "e-tron 50", "consumption": 22.7}
+{"_id": "059c028d-b2a6-4a8d-947a-158c7537b290", "userID": 20, "brand": "Audi", "type": "bev", "model": "e-tron 50", "consumption": 22.7}
+{"_id": "c8e05c0b-05c0-4aac-9f12-35a6a3687e10", "userID": 23, "brand": "Audi", "type": "phev", "model": "A3 Sportback 40 e-tron", "consumption": 12.4}
+{"_id": "e67dc450-d658-4bee-bd0f-a750d445b2f9", "userID": 46, "brand": "BMW", "type": "bev", "model": "i3", "consumption": 14.5}
+{"_id": "0ec3f440-136c-49f1-8917-c629a27146c7", "userID": 38, "brand": "BMW", "type": "bev", "model": "i3", "consumption": 16.0}
+{"_id": "dbf24ffc-3270-409b-b4da-ec386fa36657", "userID": 29, "brand": "BMW", "type": "bev", "model": "i3", "consumption": 16.1}
+{"_id": "4df1d4d6-f001-4d0a-b284-5ffc07e6ade2", "userID": 35, "brand": "BMW", "type": "phev", "model": "X5", "consumption": 21.3}
+{"_id": "45b68c71-cd11-4bd7-a03f-fdaae259635d", "userID": 28, "brand": "Citroen", "type": "bev", "model": "C-Zero", "consumption": 17.1}
+{"_id": "2f2b159b-9b03-450f-9818-c139323d1735", "userID": 10, "brand": "Fiat", "type": "bev", "model": "500e", "consumption": 18.0}
+{"_id": "22f521ce-42ca-40d7-bfdb-5d33b1bd9cbe", "userID": 19, "brand": "Fiat", "type": "bev", "model": "500e", "consumption": 16.8}
+{"_id": "c0a26929-1157-4fb4-a999-4f172df9cad7", "userID": 1, "brand": "Ford", "type": "bev", "model": "Focus electric", "consumption": 16.4}
+{"_id": "6cd5ba89-6523-4bca-9423-ea92227a8b8d", "userID": 17, "brand": "Ford", "type": "bev", "model": "Focus electric", "consumption": 16.4}
+{"_id": "6cc437e9-b842-4c1b-9c08-9ca2d46d22a9", "userID": 19, "brand": "Hyundai", "type": "bev", "model": "Kona", "consumption": 15.4}
+{"_id": "e81564b0-46e3-41f6-b6a6-70370a37f685", "userID": 16, "brand": "Hyundai", "type": "bev", "model": "Kona", "consumption": 15.4}
+{"_id": "c576bee8-8066-4174-bc69-5fe9f2e666ee", "userID": 35, "brand": "Hyundai", "type": "bev", "model": "Ioniq", "consumption": 14.4}
+{"_id": "3038b11b-2dfc-4f9f-b22c-4bfdc08d0c4b", "userID": 9, "brand": "Hyundai", "type": "bev", "model": "Ioniq", "consumption": 15.3}
+{"_id": "3667752d-17a5-4166-abaf-dcf227948bfd", "userID": 34, "brand": "Hyundai", "type": "phev", "model": "Ioniq", "consumption": 15.4}
+{"_id": "8df35b23-dcc6-4590-83c7-5578da4c4809", "userID": 13, "brand": "Hyundai", "type": "bev", "model": "Kona", "consumption": 15.8}
+{"_id": "c1fd1277-5d77-416b-bb25-84bd21f57963", "userID": 42, "brand": "Hyundai", "type": "bev", "model": "Kona", "consumption": 15.8}
+{"_id": "8da12395-cf7a-4ccf-886f-e25ade426457", "userID": 43, "brand": "Jaguar", "type": "bev", "model": "i-Pace", "consumption": 23.2}
+{"_id": "66cb7bea-24b7-458f-ae3e-11d4a852568b", "userID": 40, "brand": "Kia", "type": "bev", "model": "e-Niro", "consumption": 16.3}
+{"_id": "add28704-7b59-474d-bfa6-2338e54ccaef", "userID": 26, "brand": "Kia", "type": "bev", "model": "Soul", "consumption": 17.6}
+{"_id": "5e1746c9-56a2-4fb9-8a76-b75c95a037ee", "userID": 3, "brand": "Kia", "type": "bev", "model": "Soul", "consumption": 17.6}
+{"_id": "58661a4c-e1f9-4dc2-8d09-3bb42be62554", "userID": 1, "brand": "Kia", "type": "bev", "model": "e-Soul", "consumption": 17.0}
+{"_id": "0f7eae0b-43be-48f8-b4a0-1a8266fd07a9", "userID": 14, "brand": "Kia", "type": "bev", "model": "e-Niro", "consumption": 17.3}
+{"_id": "68cbedff-8994-4b77-bfb5-6aa22962e3a2", "userID": 15, "brand": "Kia", "type": "bev", "model": "e-Niro", "consumption": 17.3}
+{"_id": "3c933da2-1fa1-4094-825a-a181610dbfd0", "userID": 24, "brand": "Kia", "type": "bev", "model": "e-Soul", "consumption": 17.5}
+{"_id": "87e73c44-93ba-4687-877c-32a3aa940a09", "userID": 11, "brand": "Kia", "type": "bev", "model": "e-Soul", "consumption": 17.5}
+{"_id": "5335d545-cfeb-4bca-bb11-cf0966f1b5ca", "userID": 25, "brand": "Mercedes Benz", "type": "bev", "model": "EQC", "consumption": 21.6}
+{"_id": "71cc8552-391f-49b0-b106-2202fa222161", "userID": 36, "brand": "Mercedes Benz", "type": "bev", "model": "B-Klasse", "consumption": 16.6}
+{"_id": "2c7abcf4-0ba0-4feb-9e9b-b47661072feb", "userID": 36, "brand": "Mitsubishi", "type": "bev", "model": "i-Miev", "consumption": 12.9}
+{"_id": "1847e3aa-750c-4b12-a80a-56e792b3aadb", "userID": 14, "brand": "Mitsubishi", "type": "phev", "model": "Outlander PHEV", "consumption": 15.2}
+{"_id": "86290f48-f554-4db5-bd35-4a8b7828689a", "userID": 42, "brand": "Nissan", "type": "bev", "model": "e-NV 200", "consumption": 20.0}
+{"_id": "2644bfd3-a593-4276-bb1f-c8965e33797e", "userID": 39, "brand": "Nissan", "type": "bev", "model": "e-NV 200", "consumption": 20.0}
+{"_id": "daa3573d-60ea-4c7a-8048-79c575e3db4c", "userID": 26, "brand": "Nissan", "type": "bev", "model": "e-NV 200", "consumption": 20.0}
+{"_id": "dc7d163b-29bc-45cf-8156-60eb3e3b1294", "userID": 7, "brand": "Nissan", "type": "bev", "model": "Leaf", "consumption": 16.9}
+{"_id": "3b649ae3-935b-425b-b5d6-75c549b96d40", "userID": 1, "brand": "Nissan", "type": "bev", "model": "Leaf", "consumption": 16.9}
+{"_id": "83ec0576-bfb8-400a-9af9-483b2684673c", "userID": 34, "brand": "Nissan", "type": "bev", "model": "Leaf", "consumption": 16.5}
+{"_id": "74f2c3a5-f78f-459a-823a-dfc0a21e5aeb", "userID": 13, "brand": "Nissan", "type": "bev", "model": "Leaf", "consumption": 16.5}
+{"_id": "77028f96-eb9b-4c65-b452-c92011b1fc1c", "userID": 3, "brand": "Nissan", "type": "bev", "model": "Leaf", "consumption": 16.4}
+{"_id": "78b14a0f-5c62-4885-95ef-2e3f81197260", "userID": 19, "brand": "Nissan", "type": "bev", "model": "Leaf", "consumption": 17.2}
+{"_id": "f33f0a4f-9b53-4e21-807b-f8b2ca4a24f6", "userID": 12, "brand": "Opel", "type": "bev", "model": "Ampera e", "consumption": 17.3}
+{"_id": "7f4bf402-f8e2-47da-b456-30f1bdfce8ac", "userID": 48, "brand": "Opel", "type": "bev", "model": "Ampera e-Pionier", "consumption": 16.9}
+{"_id": "28b61ff5-734a-412e-9241-dec4c27d1a38", "userID": 32, "brand": "Peugeot", "type": "bev", "model": "I-on", "consumption": 12.9}
+{"_id": "9666138c-1d24-4fa8-9083-0ffba09ab1ef", "userID": 46, "brand": "Renault", "type": "bev", "model": "Zoe", "consumption": 15.5}
+{"_id": "b3fd3e84-4dd4-4ac0-914f-3c3c582fc600", "userID": 9, "brand": "Renault", "type": "bev", "model": "Zoe", "consumption": 15.5}
+{"_id": "737441e8-6b5f-4185-9b0b-e51585ab6ea8", "userID": 48, "brand": "Renault", "type": "bev", "model": "Zoe", "consumption": 16.1}
+{"_id": "e604a056-9338-4044-93dd-5a595d4a3ef3", "userID": 31, "brand": "Renault", "type": "bev", "model": "Zoe", "consumption": 16.4}
+{"_id": "c53b5947-23a3-420c-9798-f3846732e41a", "userID": 7, "brand": "Renault", "type": "bev", "model": "Zoe", "consumption": 16.1}
+{"_id": "de3a8751-00c9-46d1-9e7a-ad830835c6a7", "userID": 35, "brand": "Renault", "type": "bev", "model": "Zoe", "consumption": 16.5}
+{"_id": "1c13fba9-2c09-4be1-b5c6-aecd2b253afb", "userID": 0, "brand": "Renault", "type": "bev", "model": "Kangoo ZE", "consumption": 19.4}
+{"_id": "8f6db2f5-1dd9-46f6-bb97-eba419dbaea4", "userID": 7, "brand": "Renault", "type": "bev", "model": "Twizy", "consumption": 8.4}
+{"_id": "785c65be-3122-44ad-b574-9291c0793c37", "userID": 35, "brand": "smart", "type": "bev", "model": "fortwo ED", "consumption": 16.7}
+{"_id": "e3525b59-d3b9-4eef-9a01-1408358c5534", "userID": 4, "brand": "smart", "type": "bev", "model": "fortwo ED", "consumption": 16.7}
+{"_id": "1d43c981-02be-4d41-a34b-65a40ff25f7b", "userID": 12, "brand": "smart", "type": "bev", "model": "fortwo EQ", "consumption": 16.7}
+{"_id": "f0b185de-9b9d-4a08-924f-450c4dadc7a6", "userID": 10, "brand": "smart", "type": "bev", "model": "fortwo EQ", "consumption": 16.7}
+{"_id": "6a3a76f6-a0d0-41ff-afc9-5ad2f0879b4d", "userID": 22, "brand": "smart", "type": "bev", "model": "forfour EQ", "consumption": 17.6}
+{"_id": "805b5810-074c-449b-ad19-d6c852ebf8f6", "userID": 39, "brand": "smart", "type": "bev", "model": "forfour EQ", "consumption": 17.6}
+{"_id": "93c82e06-1aa3-4c19-8f81-b9fac0c598c3", "userID": 37, "brand": "Tesla", "type": "bev", "model": "Model 3", "consumption": 15.3}
+{"_id": "7de25a64-e9fa-484f-bf99-d02b02cfb17d", "userID": 36, "brand": "Tesla", "type": "bev", "model": "Model 3", "consumption": 16.1}
+{"_id": "7dbad968-7058-4440-9c8f-8f483cdd973a", "userID": 36, "brand": "Tesla", "type": "bev", "model": "Model 3", "consumption": 16.7}
+{"_id": "80e7ef22-27f8-4e93-8c86-7a6a0a227e5d", "userID": 33, "brand": "Tesla", "type": "bev", "model": "Model S", "consumption": 18.5}
+{"_id": "ed3fe177-d852-49bd-84ca-8ecd8d7ec3b1", "userID": 6, "brand": "Tesla", "type": "bev", "model": "Model S", "consumption": 18.5}
+{"_id": "7f709186-39c3-420f-9caf-1fdb424f7953", "userID": 15, "brand": "Tesla", "type": "bev", "model": "Model S", "consumption": 18.5}
+{"_id": "0a663bbf-3b87-4e7a-bd7a-3e9c39961a2b", "userID": 33, "brand": "Tesla", "type": "bev", "model": "Model S", "consumption": 19.1}
+{"_id": "32922583-e434-4ed2-afc1-4d8fde67aeda", "userID": 42, "brand": "Tesla", "type": "bev", "model": "Model S", "consumption": 18.2}
+{"_id": "b5aa307e-a6b9-46e7-939e-2dd525870c13", "userID": 15, "brand": "Tesla", "type": "bev", "model": "Model S", "consumption": 18.4}
+{"_id": "d03d6e42-d6f8-4e3f-b527-a3c1d1e40f9d", "userID": 23, "brand": "Tesla", "type": "bev", "model": "Model X", "consumption": 20.0}
+{"_id": "0aa5220a-6da7-4dc0-a0a1-714bea4fded3", "userID": 12, "brand": "Tesla", "type": "bev", "model": "Model X", "consumption": 22.0}
+{"_id": "908e578f-f890-4716-93e8-7c0f75e46bb5", "userID": 19, "brand": "Tesla", "type": "bev", "model": "Model X", "consumption": 21.0}
+{"_id": "355eadbb-0c97-4a66-993d-8fdc61a77ef5", "userID": 6, "brand": "Tesla", "type": "bev", "model": "Model X", "consumption": 22.0}
+{"_id": "7490520f-fe11-4148-a9b6-3882f06ee082", "userID": 1, "brand": "Tesla", "type": "bev", "model": "Model X", "consumption": 20.0}
+{"_id": "eb8d28ec-8df7-40a8-8dd7-badf738f0832", "userID": 6, "brand": "Tesla", "type": "bev", "model": "Model X", "consumption": 20.0}
+{"_id": "b7c4ddb8-4806-4328-a4e6-4abb4746016d", "userID": 45, "brand": "Tesla", "type": "bev", "model": "Model X", "consumption": 20.0}
+{"_id": "1b3105fa-527a-491f-ac26-5bfa94bfa45d", "userID": 4, "brand": "Tesla", "type": "bev", "model": "Model X", "consumption": 20.0}
+{"_id": "92ffd46c-fe26-4805-81ba-fbadce4d524f", "userID": 20, "brand": "Tesla", "type": "bev", "model": "Model X", "consumption": 16.0}
+{"_id": "f1b46b0a-b101-4072-a246-0b52f0cc51f5", "userID": 48, "brand": "Volkswagen", "type": "bev", "model": "e-Golf", "consumption": 15.8}
+{"_id": "f0132135-9415-4403-818b-cee07f81ceb2", "userID": 11, "brand": "Volkswagen", "type": "bev", "model": "e-Golf", "consumption": 16.4}
+{"_id": "a0347619-a7fe-4dd2-be4e-3ef615783481", "userID": 41, "brand": "Volkswagen", "type": "bev", "model": "e-up", "consumption": 16.8}
+{"_id": "fda95cb7-d391-4344-851e-a1b5a548b42b", "userID": 25, "brand": "Volkswagen", "type": "bev", "model": "e-Golf", "consumption": 15.8}
+{"_id": "bad55b90-4b4f-4760-83ea-fa96280e7310", "userID": 7, "brand": "Volkswagen", "type": "bev", "model": "e-Golf", "consumption": 16.4}
+{"_id": "bcd8700d-241c-43a1-b9df-24ee310ea8e4", "userID": 23, "brand": "Volkswagen", "type": "bev", "model": "e-up", "consumption": 16.8}
+{"_id": "57184038-ae77-4540-9367-ccb98beb8cc3", "userID": 30, "brand": "Volkswagen", "type": "bev", "model": "e-up", "consumption": 16.6}
+{"_id": "fc5b3c94-c0eb-4515-af3d-4a4106ffe29f", "userID": 44, "brand": "Volkswagen", "type": "bev", "model": "e-up", "consumption": 16.6}
+{"_id": "0a7e79c1-ecd6-4639-bac1-9c9e49fec84c", "userID": 47, "brand": "Volkswagen", "type": "bev", "model": "ID.3", "consumption": 16.4}
+{"_id": "d8044adf-2538-4d45-b2d8-2b2fd0951766", "userID": 49, "brand": "Volkswagen", "type": "bev", "model": "ID.3", "consumption": 16.6}
+{"_id": "cb995cc3-84d9-4c87-89dc-f9dee7a47156", "userID": 39, "brand": "Volkswagen", "type": "bev", "model": "ID.3", "consumption": 17.1}
+{"_id": "15023eb9-eba6-436e-ad98-2086f1cb31c4", "userID": 31, "brand": "Volkswagen", "type": "phev", "model": "Golf GTE", "consumption": 11.4}
+{"_id": "ec3b0af7-67c6-400d-b3c2-aa2f3be24c8a", "userID": 43, "brand": "Volkswagen", "type": "phev", "model": "Passat GTE", "consumption": 16.2}
+{"_id": "926efa33-4c55-43df-80f3-4b8d2d65a00a", "userID": 46, "brand": "Peugeot", "type": "bev", "model": "e-208", "consumption": 16.1}
+{"_id": "de7bac96-33ed-44f2-964e-21a4878e9f00", "userID": 18, "brand": "Peugeot", "type": "bev", "model": "e-208", "consumption": 16.1}
+{"_id": "72695d36-29c4-4726-8ca8-5333fb3f9865", "userID": 12, "brand": "Peugeot", "type": "bev", "model": "e-2008", "consumption": 18.0}
+{"_id": "9d101a26-eaaa-4058-a251-5221b45ffd91", "userID": 29, "brand": "Peugeot", "type": "bev", "model": "e-2008", "consumption": 18.0}
+{"_id": "e60a8ec6-a6dd-46ae-846a-35cb57f1d8e3", "userID": 20, "brand": "Peugeot", "type": "bev", "model": "Partner", "consumption": 20.5}
+{"_id": "1cec7821-632f-4f17-8a58-644b6ab23f44", "userID": 17, "brand": "Opel", "type": "bev", "model": "Corsa-e", "consumption": 16.4}
+{"_id": "6f96c616-e87a-4958-bbe7-b4278be00170", "userID": 48, "brand": "Opel", "type": "bev", "model": "Corsa-e", "consumption": 16.4}
+{"_id": "e8773876-6036-4a6c-926e-5490aae58971", "userID": 28, "brand": "Citroen", "type": "bev", "model": "Berlingo Electric", "consumption": 17.7}
+{"_id": "8cfce5f4-23b6-470a-87fa-a04095fe0334", "userID": 0, "brand": "Mini", "type": "phev", "model": "Countryman ALL4", "consumption": 13.2}
+{"_id": "d8c11860-a582-4784-9e58-d29e94a67fc2", "userID": 28, "brand": "Mini", "type": "bev", "model": "Cooper SE", "consumption": 16.1}
+{"_id": "5bfa9a87-7b35-4e3a-bd3f-dc2ac55e184b", "userID": 48, "brand": "Honda", "type": "bev", "model": "e", "consumption": 16.0}
+{"_id": "4c04db3b-c493-4b90-9859-21b7304a4ffc", "userID": 32, "brand": "Porsche", "type": "bev", "model": "Taycan", "consumption": 22.3}
+{"_id": "34b5ef32-efea-48fc-8386-3800d0b737f0", "userID": 45, "brand": "Porsche", "type": "bev", "model": "Taycan", "consumption": 19.5}
+{"_id": "6990914a-6a0d-49d4-87f5-ee86ee33344c", "userID": 42, "brand": "Porsche", "type": "bev", "model": "Taycan", "consumption": 19.7}
+{"_id": "a12f033f-f2c2-44bd-b62c-7019898a72d0", "userID": 43, "brand": "Porsche", "type": "bev", "model": "Taycan", "consumption": 21.5}
+{"_id": "8b0195b6-5318-46d9-a6fd-1b5f75e8b495", "userID": 2, "brand": "MG", "type": "bev", "model": "ZS EV", "consumption": 19.8}
+{"_id": "2ae110f8-8906-4b03-b4bc-83e5577c1cc1", "userID": 45, "brand": "Maxus", "type": "bev", "model": "EV80", "consumption": 35.0}
+{"_id": "c9025ab4-1c85-40d8-86ab-ee406de3b716", "userID": 20, "brand": "Polestar", "type": "bev", "model": "2", "consumption": 17.1}
+{"_id": "2eea1ef2-0fd1-481d-adee-68044666614e", "userID": 48, "brand": "Seat", "type": "bev", "model": "Mii Electric", "consumption": 16.6}
+{"_id": "ffcd3116-4e17-49ff-a926-941c062643ea", "userID": 21, "brand": "Skoda", "type": "bev", "model": "CITIGOe iV", "consumption": 16.6}
+{"_id": "3b5bb8d1-0f34-4c05-861c-45d19a8883b9", "userID": 40, "brand": "DS", "type": "bev", "model": "3 Crossback E-Tense", "consumption": 18.4}
+{"_id": "430ca2cd-bd4b-482a-8776-85a8c7d3435c", "userID": 11, "brand": "DS", "type": "bev", "model": "3 Crossback E-Tense", "consumption": 18.4}
+{"_id": "6033b26c-1b3c-441b-9f78-7b7cd5512051", "userID": 29, "brand": "Aiways", "type": "bev", "model": "U5", "consumption": 18.8}
+{"_id": "d97748b1-e384-4238-a225-d498bccd902c", "userID": 25, "brand": "Artega", "type": "bev", "model": "Karo", "consumption": 6.4}
+{"_id": "1c9126d4-24d6-4e9f-a49d-15813fa49728", "userID": 28, "brand": "Artega", "type": "bev", "model": "Karo", "consumption": 7.2}
+{"_id": "98aacbc9-5a97-4fe4-abcf-4f7bb2910a9f", "userID": 40, "brand": "e.GO Mobile", "type": "bev", "model": "Life 60", "consumption": 15.5}
+{"_id": "4f408d10-82c3-4850-ae2b-141f21d745b3", "userID": 17, "brand": "e.GO Mobile", "type": "bev", "model": "Life 40", "consumption": 15.5}
+{"_id": "975b064b-626e-4318-b60c-3ce0729743fd", "userID": 21, "brand": "e.GO Mobile", "type": "bev", "model": "Life 20", "consumption": 15.5}
+{"_id": "ac812f08-3c8a-4af5-a07a-b520ec9e16cc", "userID": 6, "brand": "Volvo", "type": "phev", "model": "XC 60 T8", "consumption": 24.5}
+{"_id": "4ea0fb0a-8d77-4a03-a147-5e962f8ea766", "userID": 15, "brand": "Ford", "type": "phev", "model": "Kuga", "consumption": 19.0}
+{"_id": "176af738-f385-4dc8-9243-9c701fbd7759", "userID": 29, "brand": "Mazda", "type": "bev", "model": "MX-30", "consumption": 17.8}
+{"_id": "b8a76fa8-97f1-4f27-8f9f-80f26df230d1", "userID": 1, "brand": "Chevrolet", "type": "bev", "model": "Bolt", "consumption": 12.9}
+{"_id": "7508892b-e7e7-42ba-9cca-57753426cd86", "userID": 24, "brand": "Chevrolet", "type": "bev", "model": "Spark EV", "consumption": 16.0}
+{"_id": "6a4c5e58-d1cb-49ad-a1cf-c0025fb7246f", "userID": 1, "brand": "Chevrolet", "type": "bev", "model": "Spark EV", "consumption": 14.0}
+{"_id": "09022e0a-c322-46e7-9171-b48fdd953cca", "userID": 27, "brand": "Peugeot", "type": "phev", "model": "3008", "consumption": 15.2}
+{"_id": "7ba60564-7eda-457b-b7d5-46dd1b15cc0e", "userID": 6, "brand": "Peugeot", "type": "phev", "model": "3008", "consumption": 15.2}
+{"_id": "f45de10a-764f-4a7e-9591-b974d0b87038", "userID": 18, "brand": "Mercedes Benz", "type": "phev", "model": "A 250 e", "consumption": 15.0}
+{"_id": "46240342-6f7e-4767-b66d-3234ba874a30", "userID": 39, "brand": "Mercedes Benz", "type": "phev", "model": "A 250 e", "consumption": 15.0}
+{"_id": "1e8c0cc5-20db-491f-9242-12cf3bc7b962", "userID": 1, "brand": "Mercedes Benz", "type": "phev", "model": "A 250 e", "consumption": 15.0}
+{"_id": "ee64213e-fa1d-425e-b90e-6cff9c2a3469", "userID": 45, "brand": "DS", "type": "phev", "model": "7 Crossback", "consumption": 17.4}
+{"_id": "b97f749b-5361-4116-8103-c208dc601a0b", "userID": 18, "brand": "Kia", "type": "phev", "model": "Ceed SW", "consumption": 11.3}
+{"_id": "84f2fcc1-cc73-4919-8d76-0f1ba8eaf685", "userID": 9, "brand": "Kia", "type": "phev", "model": "XCeed", "consumption": 11.3}
+{"_id": "a883bb35-270d-4f31-9169-ccf06ae3c0c5", "userID": 45, "brand": "Kia", "type": "phev", "model": "Niro", "consumption": 9.8}
+{"_id": "6fa12374-6162-451e-8464-5e0e73091839", "userID": 36, "brand": "Renault", "type": "phev", "model": "Captur E-Tech", "consumption": 17.4}
+{"_id": "b0da6660-c20e-40c3-9db7-0b19c478c6cb", "userID": 25, "brand": "Mercedes Benz", "type": "phev", "model": "GLC 300 de 4MATIC", "consumption": 18.2}
+{"_id": "41c9d96c-6a19-4db0-ba3a-931ab99c6f15", "userID": 41, "brand": "Skoda", "type": "phev", "model": "Superb iV", "consumption": 14.0}
+{"_id": "ff261470-8556-4051-afec-c049abd5fe6a", "userID": 23, "brand": "Skoda", "type": "bev", "model": "Enyaq iV", "consumption": 18.7}
+{"_id": "4dc6b014-8612-4fa7-bb34-9ea4d7fa5220", "userID": 19, "brand": "Skoda", "type": "bev", "model": "Enyaq iV", "consumption": 18.7}
+{"_id": "55ac0aaf-6bae-4a8e-ba50-4a9a7ab5b4af", "userID": 18, "brand": "Skoda", "type": "bev", "model": "Enyaq iV", "consumption": 18.7}
+{"_id": "18bb40bd-321b-4326-a404-e46652538830", "userID": 21, "brand": "Skoda", "type": "bev", "model": "Enyaq iV", "consumption": 19.0}
+{"_id": "aa69b5e8-fc4e-40f8-8060-2c96248f62ef", "userID": 6, "brand": "Skoda", "type": "bev", "model": "Enyaq iV", "consumption": 19.0}
+{"_id": "8b51a06f-676a-46aa-9074-4d3364ea1cca", "userID": 42, "brand": "Mercedes Benz", "type": "phev", "model": "GLE", "consumption": 31.2}

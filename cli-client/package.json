@@ -1,0 +1,28 @@
+{
+  "name": "ev_group88",
+  "version": "1.0.0",
+  "description": "Command Line Interface for EV Charging",
+  "main": "index.js",
+  "bin": {
+    "ev_group88": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "chai-http": "^4.3.0",
+    "commander": "^7.1.0",
+    "http": "0.0.1-security",
+    "https": "^1.0.0",
+    "multer": "^1.4.2",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "mocha": "^8.3.2",
+    "supertest": "^6.1.3"
+  }
+}

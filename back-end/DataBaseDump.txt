@@ -1,0 +1,11 @@
+
+cd from local path -->> to path-to-back-end/back-end
+
+και εκτελούμε:
+
+mongoimport --db EVdb --collection points --file ./SoftEngDataset_and_scripts/points.json
+mongoimport --db EVdb --collection vehicles --file ./SoftEngDataset_and_scripts/vehicles.json
+mongoimport --db EVdb --collection events --file ./SoftEngDataset_and_scripts/events.json
+
+
+Μετά εκτελούμε npm install για ενα εγκατασταθούν όλα τα node_modules που έχουν δηλωθεί στο package.json
