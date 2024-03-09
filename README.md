@@ -15,7 +15,7 @@ Repository used for NTUA/ECE Software Engineering, 2020-2021.
 
 Τα αρχεία json είναι αποθηκευμένα στο παρακάτω φάκελο :
 
-https://github.com/evangelospap/SoftEng-88-ev/tree/master/back-end/SoftEngDataset_and_scripts
+https://github.com/manpad13/softeng-88/tree/master/back-end/SoftEngDataset_and_scripts
 
 
 Ένω είμαστε στο directory με τα αρχεία και η βάση δεδομένων είναι ανοιχτή, τρέχουμε :
