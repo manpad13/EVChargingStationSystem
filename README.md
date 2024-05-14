@@ -1,75 +1,81 @@
-Όνοματεπώνυμο  | Αριθμός μητρώου
+Full Name	  | Github UserName
 ------------ | -------------
-Ευάγγελος Παπαγιανόπουλος | 03115206
-Αναστάσιος Διαμάντης | 03115032
-Εμμανουήλ Παδουβάς | 03115076
-Αλέξανδρος Κοντογιάννης | 03115048
+Evangelos Papagianopoulos	 | evangelospap
+Anastasios Diamantis | jugeekuz
+Emmanouil Padouvas | manpad13
+Alexandros Kontogiannis| 	alex2449
 
 Repository used for NTUA/ECE Software Engineering, 2020-2021.
 
-Το αρχείο αυτό περιέχει οδηγίες για το στήσιμο της εφαρμογής που φτιάξαμε.
 
-Η εγρασία γράφτηκε στο γλώσσα javascript ( back-end & cli & front-end ) με την χρήση του nodejs .
+## EV Charging Station Management System
+This is an application which serves the use of being a management system to a network of EV charging stations.
+Client-side users of this application can register/log-in (provided they have an EV) and use the application to
+find the closest charging station in which to charge their EV (as well as many other features).
+Admin-side users of this application can control various aspects of the application through a UI.
 
-## Στήσιμο της βάσης δεδομένων
+The application features:
 
-Τα αρχεία json είναι αποθηκευμένα στο παρακάτω φάκελο :
+*Back-End written in NodeJS
+*Front-End written in NodeJS & CSS
+*CLI using npm-commander
+*Unit testing using Chai
 
-https://github.com/manpad13/softeng-88/tree/master/back-end/SoftEngDataset_and_scripts
+## Setting up the database
+The json files are stored in the following folder:
 
+master/back-end/SoftEngDataset_and_scripts
 
-Ένω είμαστε στο directory με τα αρχεία και η βάση δεδομένων είναι ανοιχτή, τρέχουμε :
+While we are in the directory with the files and the database is running we execute the following :
+
 ```
 cd from local path -->> path-to-back-end/back-end
 
-και εκτελούμε:
+and then run:
 
 mongoimport --db EVdb --collection points --file ./SoftEngDataset_and_scripts/points.json
 mongoimport --db EVdb --collection vehicles --file ./SoftEngDataset_and_scripts/vehicles.json
 mongoimport --db EVdb --collection events --file ./SoftEngDataset_and_scripts/events.json
 
-Μετά εκτελούμε npm install για ενα εγκατασταθούν όλα τα node_modules που έχουν δηλωθεί στο package.json
+Then we execute npm install so that all the node_modules declared in package.json are installed.
 ```
-Η βάση δεδομένων υλοποιήθηκε με **mongo db**
+The database was made using **mongo db**
 
 
-## Στήσιμο του back-end
-Ενώ είμαστε στο directory του back-end σε ένα command-line γράφουμε :
+## Setting up the back-end
+While we are in the back-end directory inside a command-line we execute :
 ```
 npm install
 ```
-(για τα dependencies απο modules)
+(for all the dependencies from modules)
 ```
 npm run start 
 ```
-( για την εκκίνηση του server)
+(for starting the server)
 
-## Στήσιμο του front-end
-Ενώ είμαστε στο directory του front-end σε ένα command-line γράφουμε :
+## Setting up the front-end
+While we are in the front-end directory inside a command-line we execute :
 ```
 npm install
 ```
-(για τα dependencies απο modules)
+(for all the dependencies from modules)
 ```
 npm run start 
 ```
-( για την εκκίνηση της react)
+(for starting react)
 
 
-
-## Στήσιμο του CLI 
-Ενώ είμαστε στο directory του cli σε ένα command-line γράφουμε :
+## Setting up the CLI
+While we are in the cli's directory inside a command-line we execute:
 ```
 npm install
 ```
-(για τα dependencies απο modules)
+(for all the dependencies from modules)
 ```
 npm link
 ```
-( για να χρησιμοποιείται globally η εφαρμογή ev_group88, type ev_group88 -h for help info)
+(so that the application ev_group88 can be globally used)
 
-> Το **Testing** γίνεται για το cli είτε το back-end με την εντολή **npm test** στο αντίστοιχο directory
+> Testing is done for the cli as well as the back-end using npm test in the equivalent directory
 
- **Χρήση:** 
- Απο οποιοδήποτε directory σε τερματικό μπορούμε πλέον να χρησιμοποιήσουμε την εφαρμογή **ev_group88**
- 
+ Usage: From within any directory in a terminal we can now use the application energy_group88
