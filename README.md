@@ -16,10 +16,10 @@ Admin-side users of this application can control various aspects of the applicat
 
 The application features:
 
-*Back-End written in NodeJS
-*Front-End written in NodeJS & CSS
-*CLI using npm-commander
-*Unit testing using Chai
+* Back-End written in NodeJS
+* Front-End written in NodeJS & CSS
+* CLI using npm-commander
+* Unit testing using Chai
 
 ## Setting up the database
 The json files are stored in the following folder:
